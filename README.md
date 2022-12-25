@@ -8,7 +8,7 @@ sh -c "$(curl -fsSL
 ## Dev
 - HomeBrew
 - iTerm2
-- zsh
+- ZSH
 - Java
 - ohmyzsh
 
