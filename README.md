@@ -7,17 +7,19 @@ sh -c "$(curl -fsSL https://github.com/gouiferda/macupdater/raw/main/mac_apps.sh
 
 ## Apps:
 
-###### Dev
+###### Developement :
 - HomeBrew
 - iTerm2
 - ZSH
 - Java
 - ohmyzsh
 - wget
+- visual-studio-code
 
 ###### Media :
 - VLC
 - iina
+- spotify
 
 ###### Browser :
 - Chrome
