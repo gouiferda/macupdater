@@ -1,22 +1,29 @@
 # MAC UPDATER
 
+Command :
+sh -c "$(curl -fsSL 
 
-Apps: 
-iterm
-Keka
-VLC
-Chrome
-Firefox
-Appcleaner
-HomeBrew
-zsh
-ohmyzsh
-Qbitorrent
-Java
-Latest
-Maccy
-Rectangle
+*Apps:*
 
+## Dev
+- HomeBrew
+- iTerm2
+- zsh
+- Java
+- ohmyzsh
 
-Other services :
-macapps.link
+## Media :
+- VLC
+
+## Browser :
+- Chrome
+- Firefox
+
+## Tools :
+- Qbitorrent
+- Appcleaner
+- Keka
+- Latest
+- Maccy
+- Rectangle
+ 
