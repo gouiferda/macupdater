@@ -1,29 +1,34 @@
 # MAC UPDATER
 
 Command :
-sh -c "$(curl -fsSL 
+```
+sh -c "$(curl -fsSL https://github.com/gouiferda/macupdater/raw/main/mac_apps.sh)"
+```
 
-*Apps:*
+## Apps:
 
-## Dev
+###### Dev
 - HomeBrew
 - iTerm2
 - ZSH
 - Java
 - ohmyzsh
+- wget
 
-## Media :
+###### Media :
 - VLC
+- iina
 
-## Browser :
+###### Browser :
 - Chrome
 - Firefox
 
-## Tools :
+###### Tools :
 - Qbitorrent
 - Appcleaner
 - Keka
 - Latest
 - Maccy
 - Rectangle
+
  
